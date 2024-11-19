@@ -66,6 +66,13 @@ I embrace challenges because they push me to think outside the box and grow as b
 
 ---
 
+### 🌟 Featured Repositories:
+
 <a href="https://github.com/mohamedkhire/FakeTweet-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedkhire&repo=sms-scheduler&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedkhire&repo=FakeTweet-App&theme=radical" />
 </a>
+<a href="https://github.com/mohamedkhire/playflix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedkhire&repo=playflix&theme=radical" />
+</a>
+
+---
